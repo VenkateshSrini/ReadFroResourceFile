@@ -1,2 +1,2 @@
 ﻿command to start HWC
-& { $env:PORT=8080; .\hwc.exe -appRootPath "D:\Venkatesh\DotNetCF\ReadFromResource\RedResource\Readresource.Web" } 
+& { $env:PORT=8080; .\hwc.exe -appRootPath "D:\Venkatesh\DotNetCF\ReadFromResource\ReadFroResourceFile\Readresource.Web" } 
