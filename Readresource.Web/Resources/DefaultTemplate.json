@@ -1,0 +1,7 @@
+﻿{
+  "From": "abc@xyz.com",
+  "To": "pqr@abc.com;qa@fd.com",
+  "Subject": "Test Subject",
+  "Body": "Sample Email Body"
+
+}
